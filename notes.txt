@@ -1,0 +1,6 @@
+
+create virtual environment using conda
+install anaconda = https://www.anaconda.com/download
+consider github copilot
+
+
